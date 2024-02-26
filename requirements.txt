@@ -1,0 +1,13 @@
+numpy
+pandas
+streamlit
+python-dotenv
+streamlit_option_menu
+streamlit_extras
+PyPDF2
+langchain
+openai
+tiktoken
+faiss-cpu
+altair<5
+#pip install -U langchain-community
