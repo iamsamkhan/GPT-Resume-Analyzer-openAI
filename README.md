@@ -36,6 +36,8 @@ Run the following command to clone the GitHub repository:
 git clone https://github.com/iamsamkhan/GPT-Resume-Analyzer-openAI.git
 
 
+View Live Demo of this project: [Click Here](https://gpt-resume-analyzer-openai-chatgpt-mrs2dl.streamlit.app//)
+
 
 ## Features
 1. Automated resume screening: AI Resume Screening saves time and effort by automatically screening resumes based on job requirements and pre-defined criteria.
