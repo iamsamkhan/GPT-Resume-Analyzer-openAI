@@ -28,7 +28,7 @@ git clone https://github.com/iamsamkhan/GPT-Resume-Analyzer-openAI.git
 ## Features
 1. Automated resume screening: AI Resume Screening saves time and effort by automatically screening resumes based on job requirements and pre-defined criteria.
 
-2. Improved accuracy: The tool uses advanced algorithms to analyze resumes, reducing the likelihood of human bias and improving the accuracy of the shortlisting process. We have achieved 91 percent accuracy.
+2. Improved accuracy: The tool uses advanced algorithms to analyze resumes, reducing the likelihood of human bias and improving the accuracy of the shortlisting process.
 
 3. Efficient process: Each resume is categorized with the model in less than 5 seconds.
    
